@@ -38,7 +38,7 @@
 #define VFS_PROPRIETARY_IMG_MAX_HEIGHT  1023  // not used originally
 
 /* Number of enroll stages */
-#define VFS_PROPRIETARY_NR_ENROLL       1
+#define VFS_PROPRIETARY_NR_ENROLL       3
 
 // #define VAL_MIN_ACCEPTABLE_MINUTIAE (2*MIN_ACCEPTABLE_MINUTIAE)  // not used
 // #define VAL_DEFAULT_THRESHOLD 60  // not used
